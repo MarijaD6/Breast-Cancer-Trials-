@@ -1,0 +1,8 @@
+# Breast Cancer Classification with EfficientNetB5 (BreaKHis Dataset)
+
+This project uses **EfficientNetB5** to classify breast cancer histopathological images from the **BreaKHis dataset** into **benign** and **malignant** classes.
+
+## Dataset
+The dataset used is [BreaKHis](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/).  
+It contains histopathological images of breast tumors under different magnifications (40X, 100X, 200X, 400X).
+Full dataset provided on the following Google Drive path: https://drive.google.com/drive/folders/1ixmrHpNWH2xc0tRB3F-Ib7AOQlRYlvEr?usp=drive_link. 
