@@ -1,4 +1,6 @@
-This project applies EfficientNetB5 deep learning architecture for the classification of breast cancer histopathological images into benign and malignant categories.
+Version used for the purposes of the project: Python 3.12.11 
+
+This project applies EfficientNetB5 deep learning architecture for the classification of breast cancer histopathological images into benign and malignant categories. 
 It is based on the BreaKHis dataset, which is widely used for benchmarking breast cancer classification research. The project includes data preprocessing, augmentation, training, evaluation, and performance visualization.
 
 The dataset used is BreaKHis: 
